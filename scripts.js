@@ -18,3 +18,7 @@
 // 7 copy from github 3 lines of codes
 // 8 write more code in the project
 // 9 git status
+// 10 git add .
+// 11 git commit -m "smth added"
+// 12 git push
+// 13 git log gives us details
