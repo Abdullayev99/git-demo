@@ -22,3 +22,4 @@
 // 11 git commit -m "smth added"
 // 12 git push
 // 13 git log gives us details
+// 14 ctrl c to exit
