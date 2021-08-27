@@ -14,3 +14,7 @@
 // 3 git config --local user.email hey@gmail.com
 // 4 git status
 // 5 git add -A OR .
+// 6 git commit -m "first commit"
+// 7 copy from github 3 lines of codes
+// 8 write more code in the project
+// 9 git status
