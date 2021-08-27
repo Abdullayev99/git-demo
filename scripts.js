@@ -23,3 +23,6 @@
 // 12 git push
 // 13 git log gives us details
 // 14 ctrl c to exit
+
+// GIT CLONING
+// 1 GIT CLONE THE LINK FROM THE REPO
